@@ -1,0 +1,27 @@
+{
+  "name": "use-text-typing-effect",
+  "version": "1.0.0",
+  "description": "A React hook that takes an Array of Strings and will render a customisable JavaScript text typing effect",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "text",
+    "typing",
+    "typewriter",
+    "effect",
+    "javascript",
+    "hook",
+    "hooks",
+    "animation"
+  ],
+  "author": "fitfingers",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
